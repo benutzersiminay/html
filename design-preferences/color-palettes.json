@@ -1,0 +1,40 @@
+{
+  "palettes": [
+    {
+      "name": "Soft & Cozy",
+      "colors": [
+        { "name": "Buttermilk", "hex": "#FFF1B5" },
+        { "name": "Pastel Blue", "hex": "#C1DBE8" },
+        { "name": "Old Burgundy", "hex": "#43302E" }
+      ]
+    },
+    {
+      "name": "Neon Summer",
+      "colors": [
+        { "hex": "#E9FF97" },
+        { "hex": "#FFD18E" },
+        { "hex": "#FFA3BF" },
+        { "hex": "#FF7EE2" }
+      ]
+    },
+    {
+      "name": "Vivid Pop",
+      "colors": [
+        { "name": "Frozen Lake", "hex": "#70D6FF" },
+        { "name": "Rose Kiss", "hex": "#FF70A6" },
+        { "name": "Tangerine Dream", "hex": "#FF9770" },
+        { "name": "Royal Gold", "hex": "#FFD670" },
+        { "name": "Lime Cream", "hex": "#E9FF70" }
+      ]
+    },
+    {
+      "name": "Muted Coastal",
+      "colors": [
+        { "hex": "#9ECAD6" },
+        { "hex": "#748DAE" },
+        { "hex": "#F5CBCB" },
+        { "hex": "#FFEAEA" }
+      ]
+    }
+  ]
+}

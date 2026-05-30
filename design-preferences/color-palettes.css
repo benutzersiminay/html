@@ -1,0 +1,33 @@
+/* Design Color Preferences */
+
+/* Soft & Cozy */
+:root {
+  --soft-cozy-buttermilk: #FFF1B5;
+  --soft-cozy-pastel-blue: #C1DBE8;
+  --soft-cozy-old-burgundy: #43302E;
+}
+
+/* Neon Summer */
+:root {
+  --neon-summer-1: #E9FF97;
+  --neon-summer-2: #FFD18E;
+  --neon-summer-3: #FFA3BF;
+  --neon-summer-4: #FF7EE2;
+}
+
+/* Vivid Pop */
+:root {
+  --vivid-pop-frozen-lake: #70D6FF;
+  --vivid-pop-rose-kiss: #FF70A6;
+  --vivid-pop-tangerine-dream: #FF9770;
+  --vivid-pop-royal-gold: #FFD670;
+  --vivid-pop-lime-cream: #E9FF70;
+}
+
+/* Muted Coastal */
+:root {
+  --muted-coastal-1: #9ECAD6;
+  --muted-coastal-2: #748DAE;
+  --muted-coastal-3: #F5CBCB;
+  --muted-coastal-4: #FFEAEA;
+}
